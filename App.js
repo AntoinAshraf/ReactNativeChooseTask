@@ -1,5 +1,5 @@
 import React,{ Component  } from 'react';
-import { Platform, Text, View, TextInput, FlatList, TouchableOpacity } from 'react-native';
+import { Text, View, TextInput, FlatList } from 'react-native';
 import styles from './styles';
 
 export default class Appe extends Component  {

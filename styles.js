@@ -12,11 +12,6 @@ export default StyleSheet.create({
 		alignItems: 'center',
 		backgroundColor: '#F5FCFF',
 	},
-	textStyle:{
-		fontSize:24, 
-		textAlign:"center", 
-		fontWeight:"bold"
-	},
 	viewInput:{
 		marginLeft:20,
 		marginRight:20,
